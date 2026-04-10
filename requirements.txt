@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+xgboost
+tensorflow
+gensim
+statsmodels
+yfinance
+TA-Lib
+tqdm
+matplotlib
+seaborn
+joblib
+scipy
+requests
+python-dateutil
